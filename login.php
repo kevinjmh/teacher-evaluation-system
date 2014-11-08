@@ -1,6 +1,6 @@
 
 <?php
-
+header("Content-type: text/html; charset=utf-8"); 
 //自动登录
 // if ( isset($_COOKIE["userType"]) && isset($_COOKIE["userID"]) ){
 //   redirect($_COOKIE["userType"], $_COOKIE["userID"]);
