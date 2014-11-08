@@ -19,3 +19,7 @@ teacher-evaluation-system
 * d. 数据表要支持对应列表项的跳转
 * e. 对用户输入信息的有效性进行相应的校验
 * f. 保证数据增加修改删除的一致性
+
+###NOT for now
+
+SAE [TestSite](http://kevinjmh.sinaapp.com/login.html) (目前SAE还在用php5.3.29，所以登录的时候会有问题)
